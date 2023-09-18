@@ -5,15 +5,18 @@
 </div>
 
 <div id="header" align="center">
-  <h2>Hello, world!</h2>
-  <h3>I'm Ecaterina !</h3>
+  <h1>Hello, world!</h1>
+  <h2>I'm Ecaterina !</h2>
 </div>
 
 # 💫 About Me:
 Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.
 I'm currently learning REACT.
 
-:blue_book: ## Studying:
+:blue_book: 
+<div id="header" align="left">
+  <img src="https://media.licdn.com/dms/image/D4D16AQFiOaUe1JEOLQ/profile-displaybackgroundimage-shrink_350_1400/0/1690210588154?e=1700697600&v=beta&t=fnU6eiqPxxABVlFWmRJkfAzcBm0YH5TWP9KQ3Xm46uw" width="300" height="300"/>
+</div> 
 I am currently learning REACT.
 
 
