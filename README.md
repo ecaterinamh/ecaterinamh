@@ -13,7 +13,8 @@
 Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.
 I'm currently learning REACT.
 
-#:blue_book: I am currently learning REACT.
+:blue_book: ## Studying:
+I am currently learning REACT.
 
 
 ## 🌐 Socials:
