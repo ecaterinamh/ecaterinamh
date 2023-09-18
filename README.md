@@ -14,10 +14,11 @@ Front-End Developer enthusiast, creative and curious human being. Driven by a co
 I'm currently learning REACT.
 
 :blue_book: 
-<div id="header" align="left">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFiOaUe1JEOLQ/profile-displaybackgroundimage-shrink_350_1400/0/1690210588154?e=1700697600&v=beta&t=fnU6eiqPxxABVlFWmRJkfAzcBm0YH5TWP9KQ3Xm46uw" width="300" height="300"/>
+<div display="flex" flex-direction="row">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRoZW15YTI2djkwMzQ2MjR1b2Vrd2o3YjV4Mm91MDR6eG82Nm15YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300"/>
+  <p>I am currently learning REACT.</p>
 </div> 
-I am currently learning REACT.
+
 
 
 ## 🌐 Socials:
