@@ -2,7 +2,9 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQFiOaUe1JEOLQ/profile-displaybackgroundimage-shrink_350_1400/0/1690210588154?e=1700697600&v=beta&t=fnU6eiqPxxABVlFWmRJkfAzcBm0YH5TWP9KQ3Xm46uw" width="auto" height="auto"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina.+)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina.+" alt="Typing SVG" /></a>
+</div>
 
 # 💫 About Me:
 Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.
