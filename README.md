@@ -5,7 +5,8 @@
 -------------------------------------------------------------------------
 
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina.+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+" alt="Typing SVG" /></a>
+  ## I'm Ecaterina . 
 </div>
 
 # 💫 About Me:
