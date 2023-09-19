@@ -4,8 +4,8 @@
 
 -------------------------------------------------------------------------
 
-<div id="header" align="center" display="flex">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina" alt="Typing SVG"/></a>
+<div id="header" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina" alt="Typing SVG" height="100"/></a>
   <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="50" align="center"/>
 </div>
 
