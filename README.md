@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" height="200" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="400" height="250" align="right"/>
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2>
 
 <p>Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.</p>
@@ -21,7 +21,7 @@
 <h2><img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="60" height="60"/>Currently learning:</h2> 
 <p>I am currently learning REACT.</p> 
 
-## 🌐 Socials:
+<h2><img src="<h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/>Socials</h2> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@ecaterinamihai) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@ecaterinamh) 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Skills</h2>
