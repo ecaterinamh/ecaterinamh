@@ -13,9 +13,10 @@
 <p>Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.</p>
 
 
-
-<img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="80" height="80"/> <h3>Currently learning:</h3>
-<br>
+<div display="flex" flex-direction="row">
+  <img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="80" height="80"/> <h3>Currently learning:</h3>
+  <br>
+</div>
 <p>I am currently learning REACT.</p>
 
 
