@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQFiOaUe1JEOLQ/profile-displaybackgroundimage-shrink_350_1400/0/1690210588154?e=1700697600&v=beta&t=fnU6eiqPxxABVlFWmRJkfAzcBm0YH5TWP9KQ3Xm46uw" width="auto" height="auto"/>
 </div>
-
+<br/>
 <div id="header" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina" alt="Typing SVG" height="60"/></a>
 </div>
