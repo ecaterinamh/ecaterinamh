@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina" alt="Typing SVG" height="60"/></a>
 </div>
 
-#<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/>About Me: 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> #About Me: 
 
 Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.
 I'm currently learning REACT.
