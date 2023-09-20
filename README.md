@@ -8,15 +8,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World+!+I'm+Ecaterina" alt="Typing SVG" height="60"/></a>
 </div>
 
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h3> 
-
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2> 
 <p>Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.</p>
 
 
-<div display="flex" flex-direction="row">
-  <img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="80" height="80"/> <h3>Currently learning:</h3>
-  <br>
-</div>
+<h2><img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="60" height="60"/>Currently learning:</h2> 
+<br/>
 <p>I am currently learning REACT.</p>
 
 
