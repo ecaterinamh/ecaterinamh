@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFiOaUe1JEOLQ/profile-displaybackgroundimage-shrink_350_1400/0/1690210588154?e=1700697600&v=beta&t=fnU6eiqPxxABVlFWmRJkfAzcBm0YH5TWP9KQ3Xm46uw" width="auto" height="auto"/>
+  <img src="https://www.linkedin.com/in/ecaterinamihai/overlay/background-image/" width="auto" height="auto"/>
 </div>
 
 -----------------------------------------------------------------
@@ -16,7 +16,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="400" height="250" align="right"/>
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2>
 
-<p>Front-End Developer enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to break into the field of Web Development in order to grow my knowlegde, improve my skills and stay up to date with the latest technologies.</p>
+<p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.
+Looking for the opportunity to work in the web development industry where I can contribute, evolve and share knowledge.</p>
 
 <h2><img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="60" height="60"/>Currently learning:</h2>
 <p>I am currently learning REACT.<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40"/></p> 
