@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="400" height="250" align="right"/>
+<img src="https://cdn.dribbble.com/users/910080/screenshots/3768050/ezgif.com-optimize.gif" width="400" height="250" align="right"/>
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2>
 
 <p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.
