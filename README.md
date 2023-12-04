@@ -31,7 +31,12 @@ Looking for the opportunity to work in the web development industry where I can 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/> Socials: </h2>
 
-<a href="https://discord.gg/ecaterinamihai#6013"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ecaterinamh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ecaterinamihai) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ecaterinamh) 
+
+<a href="https://www.linkedin.com/in/ecaterinamihai/"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a>
+<a href="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/59dcb7bf-cf98-428a-8fea-4d33537ebfc2"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/79a9864a-d04d-4e27-98e4-96cc4408cf2f" width="40" height="40"/></a>
+<a href="discordapp.com/users/ecaterinamh"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
+<a href="https://instagram.com/ecaterinamh"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
+
 <br/>
 
 
