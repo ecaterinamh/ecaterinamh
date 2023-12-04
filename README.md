@@ -12,8 +12,8 @@
 ----------------------------------------------------------------------
 
 <br/>
-<img src="https://cdn.dribbble.com/users/910080/screenshots/3768050/ezgif.com-optimize.gif" />
-<img src="https://cdn.dribbble.com/users/910080/screenshots/3768050/ezgif.com-optimize.gif" width="400" height="450" align="right"/>
+
+<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3MDExOTcsIm5iZiI6MTcwMTcwMDg5NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDE0NDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1Yzg1M2MxMDNjZGE2ODk5NmMyMDIxMjI1YTUzZjYzYjQ3ZDMwZjU0OTVlNGI4NDI2ZTgxNjZhYTc0YWU4NTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qcrj7YGVVvEnOCpwodJdgGyAPvOFvWbyvU8fO-DZEpE" width="400" height="450" align="right"/>
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2>
 
 <p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.
