@@ -16,9 +16,19 @@
 <img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/c01f78fb-90d5-49b7-ac43-3bce3b6557db" width="500" height="350" align="right"/>
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2>
 
-<p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.
-Looking for the opportunity to work in the web development industry where I can contribute, evolve and share knowledge.</p>
-
+<p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.Looking for the opportunity to work in the web development industry where I can contribute, evolve and share knowledge.</p>
+<div>
+  <h5>SOFT SKILLS:</h5>
+  - Willingness to learn
+  - Curiosity
+  - Creativity
+  - Team work
+  - Time management
+  - Attention to details/Planning
+  - Communication/Listening
+  - Adaptability
+  - Emotional Intelligence
+</div>
 <br/>
 
 <h2><img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="60" height="60"/>Currently learning:</h2>
@@ -27,7 +37,7 @@ Looking for the opportunity to work in the web development industry where I can 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Skills:</h2>
 
-<div class="left" align="left" width="40%">
+<div>
 <h5>HARD SKILLS:</h5>
 
 - Frameworks: <br/>
@@ -57,21 +67,7 @@ Looking for the opportunity to work in the web development industry where I can 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
         	    
 <div/>
-<div class="right" align="right" width="40%">
-  <h5>SOFT SKILLS:</h5>
-  
-  - Willingness to learn
-  - Curiosity
-  - Creativity
-  - Team work
-  - Time management
-  - Attention to details/Planning
-  - Communication/Listening
-  - Adaptability
-  - Emotional Intelligence
 
-    
-</div>
   
 <br/>
 
