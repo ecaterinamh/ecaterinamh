@@ -18,19 +18,16 @@
 
 <p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.Looking for the opportunity to work in the web development industry where I can contribute, evolve and share knowledge.</p>
 
-<div>
-  <h5>SOFT SKILLS:</h5>
-  
-  - Willingness to learn
-  - Curiosity
-  - Creativity
-  - Team work
-  - Time management
-  - Attention to details/Planning
-  - Communication/Listening
-  - Adaptability
-  - Emotional Intelligence
-</div>
+<br />
+
+<h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/> Socials: </h2>
+
+
+LinkedIn: <a href="https://www.linkedin.com/in/ecaterinamihai/" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a>
+GitHub: <a href="https://github.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="40" height="40"/></a> 
+Discord: <a href="https://discordapp.com/users/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
+Instagram: <a href="https://instagram.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
+
 <br/>
 
 <h2><img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="60" height="60"/>Currently learning:</h2>
@@ -70,18 +67,19 @@
         	    
 <div/>
 
+<div>
+  <h5>SOFT SKILLS:</h5>
   
-<br/>
-
-<h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/> Socials: </h2>
-
-
-LinkedIn: <a href="https://www.linkedin.com/in/ecaterinamihai/" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a> <br/>
-GitHub: <a href="https://github.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="40" height="40"/></a> <br/>
-Discord: <a href="https://discordapp.com/users/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
-<br/>
-Instagram: <a href="https://instagram.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
-
+  - Willingness to learn
+  - Curiosity
+  - Creativity
+  - Team work
+  - Time management
+  - Attention to details/Planning
+  - Communication/Listening
+  - Adaptability
+  - Emotional Intelligence
+</div>
 <br/>
 
 
