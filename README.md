@@ -56,6 +56,8 @@ Looking for the opportunity to work in the web development industry where I can 
         	    
 <div/>
 <div class="right" align="right" width="45%">
+  <h5>SOFT SKILLS:</h5>
+  
   - Willingness to learn
   - Curiosity
   - Creativity
@@ -65,6 +67,8 @@ Looking for the opportunity to work in the web development industry where I can 
   - Communication/Listening
   - Adaptability
   - Emotional Intelligence
+
+    
 </div>
   
 <br/>
