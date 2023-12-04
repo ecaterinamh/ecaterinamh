@@ -18,19 +18,8 @@
 
 <p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.
 Looking for the opportunity to work in the web development industry where I can contribute, evolve and share knowledge.</p>
-<div>
-  <h5>SOFT SKILLS:</h5>
-  
-  - Willingness to learn
-  - Curiosity
-  - Creativity
-  - Team work
-  - Time management
-  - Attention to details/Planning
-  - Communication/Listening
-  - Adaptability
-  - Emotional Intelligence
-</div>
+
+<br/>
 
 <h2><img src="https://media.giphy.com/media/NW0piN9IqsibPqtZ5R/giphy.gif" width="60" height="60"/>Currently learning:</h2>
 <p> REACT.<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40"/></p> 
@@ -38,7 +27,7 @@ Looking for the opportunity to work in the web development industry where I can 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Skills:</h2>
 
-<div class="left" align="left" width="45%">
+<div class="left" align="left" width="40%">
 <h5>HARD SKILLS:</h5>
 
 - Frameworks: <br/>
@@ -68,7 +57,7 @@ Looking for the opportunity to work in the web development industry where I can 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
         	    
 <div/>
-<div class="right" align="right" width="45%">
+<div class="right" align="right" width="40%">
   <h5>SOFT SKILLS:</h5>
   
   - Willingness to learn
