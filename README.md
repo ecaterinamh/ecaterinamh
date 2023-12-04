@@ -25,7 +25,7 @@ Looking for the opportunity to work in the web development industry where I can 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Skills:</h2>
 
-<div class="left" align="left" width="50%">
+<div class="left" align="left" width="45%">
 <h5>HARD SKILLS:</h5>
 
 - Frameworks: <br/>
@@ -55,8 +55,16 @@ Looking for the opportunity to work in the web development industry where I can 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
         	    
 <div/>
-<div class="right" align="right" width="50%">
+<div class="right" align="right" width="45%">
   - Willingness to learn
+  - Curiosity
+  - Creativity
+  - Team work
+  - Time management
+  - Attention to details/Planning
+  - Communication/Listening
+  - Adaptability
+  - Emotional Intelligence
 </div>
   
 <br/>
