@@ -17,11 +17,19 @@
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpobGxmNjZ4eHR4aHA0dGY4cHpkcnl3OHB5ZGJ4OWd2aGhzNW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CJMICviHRlROaQw0JS/giphy.gif" height="80"/> About Me:</h2>
 
 <p>I define myself as an enthusiast, creative and curious human being. Driven by a continuous perseverance and dedication, I am seeking to grow my knowledge, improve my skills and stay up to date with the latest technologies.Looking for the opportunity to work in the web development industry where I can contribute, evolve and share knowledge.</p>
-
+My superpowers:
+  - Willingness to learn
+  - Curiosity
+  - Creativity
+  - Team work
+  - Time management
+  - Attention to details/Planning
+  - Communication/Listening
+  - Adaptability
+  - Emotional Intelligence
 <br />
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/> Socials: </h2>
-
 
 LinkedIn: <a href="https://www.linkedin.com/in/ecaterinamihai/" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a>
 GitHub: <a href="https://github.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="40" height="40"/></a> 
@@ -34,11 +42,10 @@ Instagram: <a href="https://instagram.com/ecaterinamh" target="_blank"><img src=
 <p> REACT.<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40"/></p> 
 <br/>
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Skills:</h2>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Tech Stack:</h2>
 
 <div>
-<h5>HARD SKILLS:</h5>
-
+  
 - Frameworks: <br/>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
   
@@ -67,23 +74,7 @@ Instagram: <a href="https://instagram.com/ecaterinamh" target="_blank"><img src=
         	    
 <div/>
 
-<div>
-  <h5>SOFT SKILLS:</h5>
-  
-  - Willingness to learn
-  - Curiosity
-  - Creativity
-  - Team work
-  - Time management
-  - Attention to details/Planning
-  - Communication/Listening
-  - Adaptability
-  - Emotional Intelligence
-</div>
 <br/>
-
-
-
 
 <h2>📊 GitHub Stats:</h2>
 
