@@ -25,26 +25,26 @@ Looking for the opportunity to work in the web development industry where I can 
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>Skills:</h2>
 
-<div align="left">
+<div class="left" align="left" width="50%">
 <h5>HARD SKILLS:</h5>
 
-- Frameworks:
+- Frameworks: <br/>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
   
-- Programming languages:
+- Programming languages: <br/>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
   
-- Front-End Development: 
+- Front-End Development: <br/>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
-- Softwares and Tools:
+- Softwares and Tools: <br/>
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
   ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
   
-- Extras:
+- Extras: <br/>
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
@@ -53,18 +53,22 @@ Looking for the opportunity to work in the web development industry where I can 
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-  
-       	    
+        	    
 <div/>
+<div class="right" align="right" width="50%">
+  - Willingness to learn
+</div>
+  
 <br/>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/> Socials: </h2>
 
 
-<a href="https://www.linkedin.com/in/ecaterinamihai/" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a>
-<a href="https://github.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="40" height="40"/></a>
-<a href="https://discordapp.com/users/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
-<a href="https://instagram.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
+LinkedIn: <a href="https://www.linkedin.com/in/ecaterinamihai/" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a> <br/>
+GitHub: <a href="https://github.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="40" height="40"/></a> <br/>
+Discord: <a href="https://discordapp.com/users/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
+<br/>
+Instagram: <a href="https://instagram.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
 
 <br/>
 
