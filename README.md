@@ -32,10 +32,10 @@ Looking for the opportunity to work in the web development industry where I can 
 <h2><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60" height="60"/> Socials: </h2>
 
 
-<a href="https://www.linkedin.com/in/ecaterinamihai/"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a>
-<a href="https://github.com/ecaterinamh"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="38" height="38"/></a>
-<a href="htts://discordapp.com/users/ecaterinamh"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
-<a href="https://instagram.com/ecaterinamh"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
+<a href="https://www.linkedin.com/in/ecaterinamihai/" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/3362c016-970d-44a2-a7ed-50ac60e7c712" width="40" height="40"/></a>
+<a href="https://github.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/5c505d22-7664-4431-86d8-720a6cdb39e4" width="40" height="40"/></a>
+<a href="https://discordapp.com/users/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/b2c38eb4-0315-4a3d-969b-f1a2657b84c9" width="40" height="40"/></a>
+<a href="https://instagram.com/ecaterinamh" target="_blank"><img src="https://github.com/ecaterinamh/ecaterinamh/assets/107798204/7fc2891c-f991-4f0b-8882-8bdce9ef6abd" width="40" height="40"/></a> 
 
 <br/>
 
